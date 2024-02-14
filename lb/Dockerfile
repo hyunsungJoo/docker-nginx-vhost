@@ -1,2 +1,2 @@
-FROM nginx
-COPY index.html /usr/share/nginx/html
+From nginx
+COPY config/default.conf /etc/nginx/conf.d/
